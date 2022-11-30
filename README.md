@@ -3,7 +3,7 @@ _Natural Language Processing Clinical Decision Support Tool_
 
 This repo holds the code associated with a research paper that I am writing. Updates to follow.
 
-## Version 1
+## Version 1 (11/28/22)
 
 Nothing to note.
 
