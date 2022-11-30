@@ -1,7 +1,7 @@
 # NLP-CDST
 _Natural Language Processing Clinical Decision Support Tool_
 
-This repo holds the code associated with a research paper that I am writing. Updates to follow.
+This repo holds the code associated with [this research paper that I am writing](https://drive.google.com/file/d/1KsSOd4oMXm7gWdZcjIgTl9msBGE--E8l/view?usp=share_link). Updates to follow.
 
 ## Version 1 (11/28/22)
 
